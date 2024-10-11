@@ -1,6 +1,6 @@
 x = input("Enter a number")
 if not x.isdigit:
-    print("Failure don't know what a number is")
+    print("You did not enter a number.")
 set1a = ["One","Two","Three","Four","Five","Six","Seven","Eight","Nine"]
 set1b = ["Ten","Eleven","Twelve","Thirteen","Fourteen","Fifteen","Sixteen","Seventeen","Eighteen","Nineteen"]
 set2 = ["Ten","Twenty","Thirty","Forty","Fifty","Sixty","Seventy","Eighty","Ninety"]
